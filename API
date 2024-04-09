@@ -1,0 +1,25 @@
+{
+  "temp1": {
+    "main_image": {
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/background_image.png"
+    },
+    "user_image": {
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/user_image.png",
+      "placeholder": {
+        "width": 254,
+        "height": 265,
+        "x": 16,
+        "y": 0
+      }
+    },
+    "top_image": {
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/top_one.png",
+      "placeholder": {
+        "width": 48,
+        "height": 270,
+        "x": 16,
+        "y": -5
+      }
+    }
+  }
+}
