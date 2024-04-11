@@ -1,7 +1,10 @@
 {
   "temp1": {
     "main_image": {
-      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/mainIV.png"
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/mainIV.png",
+      "width": 595,
+      "height": 842,
+      
     },
     "user_image": {
       "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/user_image.png",
