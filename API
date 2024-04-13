@@ -210,6 +210,7 @@
         },
         "user_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/user_image.png",
+          "image_view": "round",
           "placeholder": {
             "width": 254,
             "height": 265,
