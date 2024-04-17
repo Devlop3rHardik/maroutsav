@@ -1,6 +1,6 @@
 {
-  "app_url": "https://PLAYSTOREurlOFyourAPP.com",
-  "ad": "1",
+  "app_url": "https://play.google.com/store/apps/details?id=com.jbd.dadabapupostermaker",
+  "ad": "0",
   "ad_url": "https://moviemania.buzz",
   "images": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "url": "https://raw.githubusercontent.com/makccr/wallpapers/master/wallpapers/art/ARTWORK-christianas-world.jpg",
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/2/thumb%202.png",
       "width": 1920,
       "height": 1080,
       "x": 0,
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "url": "https://raw.githubusercontent.com/makccr/wallpapers/master/wallpapers/art/ARTWORK-lonely-tree.jpg",
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/3/thumb_3.png",
       "width": 1920,
       "height": 1080,
       "x": 0,
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "url": "https://raw.githubusercontent.com/makccr/wallpapers/master/wallpapers/art/ARTWORK-the-kiss.jpg",
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Thumb/thumb1.png",
       "width": 1920,
       "height": 1080,
       "x": 0,
@@ -234,26 +234,27 @@
     {
       "temp2": {
         "main_image": {
-          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/mainIV.png",
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/2/thumb%202.png",
           "width": 595,
           "height": 842
         },
         "user_image": {
-          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/user_image.png",
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/2/user_image_2.png",
+          "image_view": "round",
           "placeholder": {
-            "width": 254,
-            "height": 265,
-            "x": 16,
-            "y": 0
+            "width": 360,
+            "height": 360,
+            "x": 360,
+            "y": 457
           }
         },
         "top_image": {
-          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/top_new.png",
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/2/top_image_2.png",
           "placeholder": {
-            "width": 48,
-            "height": 270,
-            "x": 16,
-            "y": -1
+            "width": 394,
+            "height": 701.61,
+            "x": 0,
+            "y": 248.19
           }
         }
       }
@@ -261,26 +262,27 @@
     {
       "temp3": {
         "main_image": {
-          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/mainIV.png",
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/3/thumb_3.png",
           "width": 595,
           "height": 842
         },
         "user_image": {
-          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/user_image.png",
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/3/user_image_3.png",
+          "image_view": "no",
           "placeholder": {
-            "width": 254,
-            "height": 265,
-            "x": 16,
-            "y": 0
+            "width": 720,
+            "height": 377,
+            "x": 0,
+            "y": 375
           }
         },
         "top_image": {
-          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/top_new.png",
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/3/top_image_3.png",
           "placeholder": {
-            "width": 48,
-            "height": 270,
-            "x": 16,
-            "y": -1
+            "width": 720,
+            "height": 716,
+            "x": 0,
+            "y": 374
           }
         }
       }
