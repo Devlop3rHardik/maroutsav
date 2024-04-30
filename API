@@ -42,8 +42,8 @@
 {
       "id": 5,
       "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/4/THUMB5.png",
-      "width": 1080,
-      "height": 720,
+      "width": 1920,
+      "height": 1080,
       "x": 0,
       "y": 0,
       "identifier": "temp5"
@@ -164,8 +164,8 @@
 "temp5": {
         "main_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/4/Main%20Frame.png",
-          "width": 720,
-          "height": 1080
+          "width": 1080,
+          "height": 720
         },
         "user_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/4/User%20Image.png",
@@ -173,8 +173,8 @@
           "placeholder": {
             "width": 251,
             "height": 251,
-            "x": 676,
-            "y": 483
+            "x": 829,
+            "y": 469
           }
         },
         "top_image": {
