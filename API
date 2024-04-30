@@ -199,26 +199,26 @@
 "temp6": {
         "main_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/MainFrame5.png",
-     "width": 1080,
-          "height": 720
+          "width": 720,
+          "height": 1080
         },
         "user_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/User%20Image%205.png",
           "image_view": "round",
-         "placeholder": {
-            "width": 251,
-            "height": 251,
-            "x": 829,
-            "y": 469
+          "placeholder": {
+            "width": 174,
+            "height": 174,
+            "x": 533,
+            "y": 895
           }
         },
         "top_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/main_bg_transparent.png",
         "placeholder": {
-            "width": 251,
-            "height": 251,
-            "x": 11,
-            "y": 11
+            "width": 720,
+            "height": 1080,
+            "x": 0,
+            "y": 0
           }
         }
       }
