@@ -65,8 +65,7 @@
       "x": 4023,
       "y": -1738,
       "identifier": "temp7"
-    }
-,
+    },
 {
       "id": 8,
       "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/7/thumpnail.png",
@@ -75,6 +74,15 @@
       "x": 4023,
       "y": -1738,
       "identifier": "temp8"
+    },
+{
+      "id": 9,
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/8/Thumpnail.png",
+      "width": 720,
+      "height": 1080,
+      "x": 4023,
+      "y": -1738,
+      "identifier": "temp9"
     }
   ],
   "temp": [
@@ -281,6 +289,32 @@
             "height": 233,
             "x": 425,
             "y": 842
+          }
+        },
+        "top_image": {
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/main_bg_transparent.png",
+        "placeholder": {
+            "width": 720,
+            "height": 1080,
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+"temp9": {
+        "main_image": {
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/8/MainFrame.png",
+          "width": 720,
+          "height": 1080
+        },
+        "user_image": {
+          "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/8/User%20Image%204.png",
+          "image_view": "round",
+          "placeholder": {
+            "width": 280,
+            "height": 238,
+            "x": 401,
+            "y": 821
           }
         },
         "top_image": {
