@@ -74,7 +74,7 @@
       "height": 1080,
       "x": 4023,
       "y": -1738,
-      "identifier": "temp7"
+      "identifier": "temp8"
     }
   ],
   "temp": [
@@ -267,7 +267,7 @@
           }
         }
       },
-"temp7": {
+"temp8": {
         "main_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/7/mainframe.png",
           "width": 720,
