@@ -21,6 +21,15 @@
       "y": 0,
       "identifier": "temp2"
     },
+{
+      "id": 11,
+      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/20/thump.png",
+      "width": 720,
+      "height": 1080,
+      "x": 4023,
+      "y": -1738,
+      "identifier": "temp11"
+    },
     {
       "id": 3,
       "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/3/thumb_3.png",
@@ -92,15 +101,6 @@
       "x": 4023,
       "y": -1738,
       "identifier": "temp10"
-    },
-{
-      "id": 11,
-      "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/20/thump.png",
-      "width": 720,
-      "height": 1080,
-      "x": 4023,
-      "y": -1738,
-      "identifier": "temp11"
     },
 {
       "id": 12,
