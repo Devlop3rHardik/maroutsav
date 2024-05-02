@@ -447,7 +447,9 @@
           }
         }
       }
-    },"temp11": {
+    },
+{
+"temp11": {
         "main_image": {
           "url": "https://raw.githubusercontent.com/Devlop3rHardik/maroutsav/main/Temp/20/main.png",
           "width": 720,
@@ -471,6 +473,7 @@
             "x": 0,
             "y": 0
           }
+        }
         }
       },
     {
